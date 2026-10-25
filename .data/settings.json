@@ -1,0 +1,147 @@
+{
+  "placeholderModel": "",
+  "templateList": [
+    {
+      "content": "整理成一篇详细完整的笔记。\n满足以下格式要求：\n- 如果是代码，必须完整保留，不要随意生成。\n- 文字复制的内容尽量不要修改，只处理格式化后的内容。",
+      "id": "0",
+      "range": "all",
+      "status": true,
+      "title": "笔记"
+    },
+    {
+      "content": "最近一周的记录整理成一篇周报，将每条记录形成一句总结，每条不超过50字。",
+      "id": "1",
+      "range": "week",
+      "status": true,
+      "title": "周报"
+    }
+  ],
+  "editorContentWidth": "full",
+  "jsdelivr": true,
+  "editorViewMode": "visual",
+  "canvasGridGap": 20,
+  "enableImageRecognition": true,
+  "imageMethodModel": "",
+  "outlinePlacement": "editor",
+  "showEditorUndoRedo": true,
+  "editorLineHeight": "comfortable",
+  "markDescModel": "note-gen-chat",
+  "autoUpdate": true,
+  "recordCompletionBehavior": "highlight",
+  "gitlabInstanceType": "gitlab.com",
+  "showMobileEditorToolbar": true,
+  "canvasInsertBehavior": "select",
+  "recordViewMode": "list",
+  "giteaInstanceType": "gitea.com",
+  "showEditorStats": true,
+  "customThemeColors": {
+    "dark": {
+      "accent": null,
+      "accentForeground": null,
+      "background": null,
+      "border": null,
+      "card": null,
+      "cardForeground": null,
+      "foreground": null,
+      "muted": null,
+      "mutedForeground": null,
+      "primary": null,
+      "primaryForeground": null,
+      "secondary": null,
+      "secondaryForeground": null,
+      "shadow": null,
+      "third": null,
+      "thirdForeground": null
+    },
+    "light": {
+      "accent": null,
+      "accentForeground": null,
+      "background": null,
+      "border": null,
+      "card": null,
+      "cardForeground": null,
+      "foreground": null,
+      "muted": null,
+      "mutedForeground": null,
+      "primary": null,
+      "primaryForeground": null,
+      "secondary": null,
+      "secondaryForeground": null,
+      "shadow": null,
+      "third": null,
+      "thirdForeground": null
+    }
+  },
+  "completionModel": "note-gen-chat",
+  "speechToTextMode": "auto",
+  "canvasManagerViewMode": "grid",
+  "fileManagerTextSize": "sm",
+  "darkMode": "system",
+  "embeddingModel": "note-gen-embedding",
+  "audioModel": "",
+  "commitModel": "note-gen-chat",
+  "primaryModel": "note-gen-chat",
+  "codeTheme": "github",
+  "canvasDefaultZoom": 1,
+  "canvasWheelBehavior": "zoom",
+  "fixedRecordTagId": null,
+  "language": "简体中文",
+  "canvasGridStyle": "dots",
+  "canvasManagerSortMode": "updated",
+  "giteaCustomUrl": "",
+  "outlinePosition": "right",
+  "canvasSnapToGrid": false,
+  "previewTheme": "github",
+  "recordSortMode": "newest",
+  "sttModel": "note-gen-free-note-gen-stt",
+  "gitlabCustomUrl": "",
+  "recordTextSize": "sm",
+  "editorSourceWrap": true,
+  "recordSaveTargetMode": "current",
+  "rerankingModel": "",
+  "recordToolbarConfig": [
+    {
+      "enabled": true,
+      "id": "text",
+      "order": 0
+    },
+    {
+      "enabled": true,
+      "id": "recording",
+      "order": 1
+    },
+    {
+      "enabled": true,
+      "id": "scan",
+      "order": 2
+    },
+    {
+      "enabled": true,
+      "id": "image",
+      "order": 3
+    },
+    {
+      "enabled": true,
+      "id": "link",
+      "order": 4
+    },
+    {
+      "enabled": true,
+      "id": "file",
+      "order": 5
+    },
+    {
+      "enabled": true,
+      "id": "todo",
+      "order": 6
+    }
+  ],
+  "showSourceLineNumbers": true,
+  "textToSpeechMode": "auto",
+  "enableOutline": false,
+  "githubCustomImageRepo": "",
+  "editorModel": "",
+  "canvasGridVisible": true,
+  "canvasMinimapVisible": true,
+  "agentSystemPromptExtension": ""
+}
