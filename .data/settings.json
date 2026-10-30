@@ -1,7 +1,7 @@
 {
   "codeTheme": "github",
   "canvasInsertBehavior": "select",
-  "editorViewMode": "source",
+  "editorViewMode": "visual",
   "canvasManagerSortMode": "updated",
   "markDescModel": "note-gen-chat",
   "textToSpeechMode": "auto",
