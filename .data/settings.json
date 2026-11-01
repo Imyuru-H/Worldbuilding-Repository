@@ -90,7 +90,7 @@
   "fileManagerTextSize": "sm",
   "canvasGridVisible": true,
   "showEditorUndoRedo": true,
-  "editorViewMode": "source",
+  "editorViewMode": "visual",
   "canvasInsertBehavior": "select",
   "canvasDefaultZoom": 1,
   "markDescModel": "note-gen-chat",
