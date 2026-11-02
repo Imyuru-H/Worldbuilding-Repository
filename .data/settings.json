@@ -1,14 +1,15 @@
 {
-  "editorModel": "",
-  "editorSourceWrap": true,
-  "audioModel": "",
-  "gitlabInstanceType": "gitlab.com",
-  "commitModel": "note-gen-chat",
-  "placeholderModel": "",
+  "canvasGridVisible": true,
+  "showEditorUndoRedo": true,
   "canvasWheelBehavior": "zoom",
-  "recordTextSize": "sm",
+  "placeholderModel": "",
   "editorLineHeight": "comfortable",
   "previewTheme": "github",
+  "giteaInstanceType": "gitea.com",
+  "editorModel": "",
+  "canvasSnapToGrid": false,
+  "editorViewMode": "source",
+  "canvasManagerViewMode": "grid",
   "templateList": [
     {
       "content": "整理成一篇详细完整的笔记。\n满足以下格式要求：\n- 如果是代码，必须完整保留，不要随意生成。\n- 文字复制的内容尽量不要修改，只处理格式化后的内容。",
@@ -25,82 +26,7 @@
       "title": "周报"
     }
   ],
-  "showEditorStats": true,
-  "sttModel": "note-gen-free-note-gen-stt",
-  "embeddingModel": "note-gen-embedding",
-  "canvasMinimapVisible": true,
-  "canvasGridGap": 20,
-  "codeTheme": "github",
-  "outlinePosition": "right",
-  "canvasManagerViewMode": "grid",
-  "recordViewMode": "list",
-  "fixedRecordTagId": null,
-  "recordToolbarConfig": [
-    {
-      "enabled": true,
-      "id": "text",
-      "order": 0
-    },
-    {
-      "enabled": true,
-      "id": "recording",
-      "order": 1
-    },
-    {
-      "enabled": true,
-      "id": "scan",
-      "order": 2
-    },
-    {
-      "enabled": true,
-      "id": "image",
-      "order": 3
-    },
-    {
-      "enabled": true,
-      "id": "link",
-      "order": 4
-    },
-    {
-      "enabled": true,
-      "id": "file",
-      "order": 5
-    },
-    {
-      "enabled": true,
-      "id": "todo",
-      "order": 6
-    }
-  ],
-  "enableOutline": false,
-  "giteaInstanceType": "gitea.com",
-  "autoUpdate": true,
-  "speechToTextMode": "auto",
-  "recordCompletionBehavior": "highlight",
-  "completionModel": "note-gen-chat",
-  "canvasSnapToGrid": false,
-  "gitlabCustomUrl": "",
-  "enableImageRecognition": true,
-  "darkMode": "system",
-  "canvasGridStyle": "dots",
-  "outlinePlacement": "editor",
-  "giteaCustomUrl": "",
-  "agentSystemPromptExtension": "",
-  "rerankingModel": "",
   "fileManagerTextSize": "sm",
-  "canvasGridVisible": true,
-  "showEditorUndoRedo": true,
-  "editorViewMode": "visual",
-  "canvasInsertBehavior": "select",
-  "canvasDefaultZoom": 1,
-  "markDescModel": "note-gen-chat",
-  "showSourceLineNumbers": true,
-  "editorContentWidth": "full",
-  "githubCustomImageRepo": "",
-  "recordSaveTargetMode": "current",
-  "canvasManagerSortMode": "updated",
-  "textToSpeechMode": "auto",
-  "showMobileEditorToolbar": true,
   "customThemeColors": {
     "dark": {
       "accent": null,
@@ -139,9 +65,83 @@
       "thirdForeground": null
     }
   },
-  "primaryModel": "note-gen-chat",
+  "githubCustomImageRepo": "",
   "recordSortMode": "newest",
-  "language": "简体中文",
+  "canvasGridGap": 20,
+  "enableOutline": false,
+  "recordToolbarConfig": [
+    {
+      "enabled": true,
+      "id": "text",
+      "order": 0
+    },
+    {
+      "enabled": true,
+      "id": "recording",
+      "order": 1
+    },
+    {
+      "enabled": true,
+      "id": "scan",
+      "order": 2
+    },
+    {
+      "enabled": true,
+      "id": "image",
+      "order": 3
+    },
+    {
+      "enabled": true,
+      "id": "link",
+      "order": 4
+    },
+    {
+      "enabled": true,
+      "id": "file",
+      "order": 5
+    },
+    {
+      "enabled": true,
+      "id": "todo",
+      "order": 6
+    }
+  ],
+  "canvasMinimapVisible": true,
+  "rerankingModel": "",
+  "embeddingModel": "note-gen-embedding",
+  "primaryModel": "note-gen-chat",
+  "darkMode": "system",
+  "outlinePlacement": "editor",
+  "autoUpdate": true,
+  "canvasDefaultZoom": 1,
+  "markDescModel": "note-gen-chat",
+  "gitlabInstanceType": "gitlab.com",
+  "showEditorStats": true,
+  "gitlabCustomUrl": "",
+  "recordTextSize": "sm",
+  "audioModel": "",
+  "imageMethodModel": "",
+  "giteaCustomUrl": "",
   "jsdelivr": true,
-  "imageMethodModel": ""
+  "completionModel": "note-gen-chat",
+  "language": "简体中文",
+  "editorSourceWrap": true,
+  "editorContentWidth": "full",
+  "showMobileEditorToolbar": true,
+  "canvasGridStyle": "dots",
+  "speechToTextMode": "auto",
+  "recordViewMode": "list",
+  "enableImageRecognition": true,
+  "showSourceLineNumbers": true,
+  "recordCompletionBehavior": "highlight",
+  "textToSpeechMode": "auto",
+  "commitModel": "note-gen-chat",
+  "codeTheme": "github",
+  "recordSaveTargetMode": "current",
+  "outlinePosition": "right",
+  "canvasManagerSortMode": "updated",
+  "fixedRecordTagId": null,
+  "canvasInsertBehavior": "select",
+  "agentSystemPromptExtension": "",
+  "sttModel": "note-gen-free-note-gen-stt"
 }
